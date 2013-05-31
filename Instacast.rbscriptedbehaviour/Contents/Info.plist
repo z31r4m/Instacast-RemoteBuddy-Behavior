@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Scripted Behaviour for Instacast</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.marihart.scriptedbehaviours.Instacast</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>RMBD</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright (C)2013 Leo Marihart &lt;leo@marihart.org&gt;, created using Remote Buddy 1.23</string>
+	<key>RequiredApplicationBundleIdentifier</key>
+	<string>com.vemedio.osx.Instacast</string>
+</dict>
+</plist>

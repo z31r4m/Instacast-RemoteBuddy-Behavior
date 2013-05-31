@@ -1,0 +1,24 @@
+{
+	/* Scripted behaviour name */
+	"Instacast"	=	"Instacast";
+
+	/* Strings for 30 sec back [Instacast] */
+	"30 sec back"	=	"30 sec back";
+	"Hold to 'name of the action'"	=	"Hold to 'name of the action'";
+
+	/* Strings for 30 sec fwd [Instacast] */
+	"30 sec fwd"	=	"30 sec fwd";
+
+	/* Strings for Pause [Instacast] */
+	"Pause"	=	"Pause";
+
+	/* Strings for Volume Up [Instacast] */
+	"Volume Up"	=	"Volume Up";
+
+	/* Strings for Volume Down [Instacast] */
+	"Volume Down"	=	"Volume Down";
+
+	/* Strings for MiniPlayer Swap [Instacast] */
+	"MiniPlayer Swap"	=	"MiniPlayer Swap";
+
+}

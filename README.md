@@ -23,14 +23,14 @@ Because.
 
 Basic MPlayer type Remote to Instacast bindings:
 
-Up → Volume Up
-Down → Volume Down
+- Up → Volume Up
+- Down → Volume Down
 
-Left → 30 sec back
-Right → 30 sec forward
+- Left → 30 sec back
+- Right → 30 sec forward
 
-Space → Play/Pause
-Space held down → Switch to/from MiniPlayer
+- Space → Play/Pause
+- Space held down → Switch to/from MiniPlayer
 
 Supports the RB 'Ajax Remote' iOS App and the Apple IR Remote. Nothing else, but the actions are there.
 

@@ -15,7 +15,7 @@ Because.
 
 ## QuickStart
 
-- Download the zip of the rule. Clone at your peril.
+- Download the zip. Clone at your peril.
 - Import into Remote Buddy
 - Enjoy
 
